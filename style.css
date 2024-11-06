@@ -1,0 +1,23 @@
+body{
+   background-color: #212121;
+   color: white;
+}
+
+.container{
+    /* border: 2px solid green; */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#clock{
+    /* border: 2px solid orange; */
+    background-color: orange;
+    font-size: 25px;
+    font-weight: bold;
+    padding:5px;
+    border-radius: 10px;
+    
+}
